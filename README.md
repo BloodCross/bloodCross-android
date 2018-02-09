@@ -7,7 +7,7 @@ App puts the power to save lives in the palm of your hand.
 Features:
 --------
 
-WHAT'S NEW
+What's New:
 ----------
 
 ## Build Instructions
