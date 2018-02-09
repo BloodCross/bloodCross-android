@@ -1,5 +1,3 @@
-
-# BloodCross is in need of a new lead developer for BloodCross for Android! If you are interested let me know!
 # BloodCross for Android
 
 App puts the power to save lives in the palm of your hand. 
@@ -25,3 +23,6 @@ Read more about contributing to BloodCross [here]().
 
 ## Join Beta Testing
 Join our [Community on Google+](), then [click here]().
+
+
+# BloodCross is in need of a new lead developer for BloodCross for Android! If you are interested let me know!
