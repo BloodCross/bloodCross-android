@@ -1,9 +1,20 @@
 # BloodCross for Android 🎁 :hospital: :ambulance: :family: :heart:
 
-App puts the power to save lives in the palm of your hand. 
+App puts the power to save lives in the palm of your hand. Find nearby Red Cross blood drives, schedule appointments, earn rewards from premier retailers, follow your blood’s journey from donation through delivery (when possible), and create or join a lifesaving team and track its impact on a national leaderboard. 
 
-Features:
---------
+Upcoming Features:
+------------------
+
+• Convenient, easy appointment scheduling and rescheduling
+• Receive appointment reminders
+• View donation history to see how many lives you’ve helped save
+• Get geo-targeted blood shortage alerts let you know if your blood type is needed in your area 
+• Take a selfie of your heroic donation and share with friends and family using one of a variety of filters
+• Claim rewards from participating retailers for your donation efforts 
+• Track your blood via Blood Journey and get notified when your blood has reached a hospital (when available)
+• Join or create a lifesaving team based around your favorite organization (school, business, sports team, etc.) or create your own, recruit others and view rankings on a national scoreboard
+• Earn unique badges to proudly share your achievements via social media, text, or email whether you’re a first-timer or a gallon donor
+
 
 What's New:
 ----------
