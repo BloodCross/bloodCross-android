@@ -5,6 +5,8 @@ App puts the power to save lives in the palm of your hand. Find nearby Red Cross
 Upcoming Features:
 ------------------
 
+ The current roadmap can be viewed on [Trello](https://trello.com/b/DwLCfv7g/space-launchCategory-now).
+
 -  Convenient, easy appointment scheduling and rescheduling
 -  Receive appointment reminders
 -  View donation history to see how many lives you’ve helped save
